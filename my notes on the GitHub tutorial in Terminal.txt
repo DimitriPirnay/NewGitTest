@@ -1,0 +1,18 @@
+cd to correct folder
+
+git status -> list of changes
+git add filename.file	-> add file to the tracked items
+(or) git add . (adds all the content of the folder)
+git commit -m (with a message) “your message under quotes”
+git push (uploads your changes to github)
+
+
+git pull
+
+
+conclusion workflow : (make changes) git status -> git add -> git commit -> git push ——> git pull
+
+
+git (show all commands)
+
+(if) git commit (without a message) ==> opens a full blown commit (so a message with multiple lines -> stuck in text -> press Esc and type :wq 
